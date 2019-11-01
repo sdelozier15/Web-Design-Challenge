@@ -1,0 +1,1 @@
+in order to run jupyter notebook you need to unzip the tsv and read_csv from your filepath.
